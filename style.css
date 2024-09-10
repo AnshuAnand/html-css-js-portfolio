@@ -30,9 +30,9 @@ a, .btn {
 
 /* DESKTOP NAV */
 
-nav, .nav-links{
-    display: flex;
-}
+/* nav, .nav-links{
+    display:flex;
+} */
 
 nav {
     justify-content: space-around;
